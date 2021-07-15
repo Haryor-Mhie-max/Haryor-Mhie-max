@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ololade 
+- 👀 I’m interested in Frontend Roles and UI Designs
+- 🌱 I’m currently learning Firebase and typescript
+- 💞️ I’m looking to collaborate on react projects
+- 📫 How to reach me bellololade2017@gmail.com
